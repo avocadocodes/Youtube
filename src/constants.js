@@ -1,0 +1,1 @@
+export const DB_NAME = "youtube" //we keep the not-so sensitive data here instead of .env
